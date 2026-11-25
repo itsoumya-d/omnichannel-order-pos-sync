@@ -1,0 +1,12 @@
+{
+  "name": "omnichannel-order-pos-sync",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Omnichannel online ordering reservation, HMAC webhook verification, and POS settlement engine",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
